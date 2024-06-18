@@ -1,6 +1,6 @@
 # Demo
 
-  - [DEMO LINK](https://grigoryykach.github.io/hlegal-landing/)
+  - [DEMO LINK](https://grigoryykach.github.io/todo-app/)
 
 # Todo App
 
@@ -23,3 +23,9 @@ Through the development of this Todo app, I gained valuable experience in:
 - **Error Handling**: Improved my ability to handle errors gracefully and provide a better user experience.
 - **Component-Based Architecture**: Strengthened my understanding of structuring applications with reusable components.
 - **State Management**: Deepened my knowledge of managing state within a React application using hooks.
+
+## Author
+
+- Github - [GrygoryyKach](https://github.com/GrigoryyKach)
+- LinkedIn - [Hryhorii Kachurovskyi](https://www.linkedin.com/in/hryhorii-kachurovskyi-b4994b283/)
+- Telegram - [@hrigoriikachurovskyi](https://t.me/hrigoriikachurovskyi)
